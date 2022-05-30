@@ -71,14 +71,8 @@
 			children = (
 				6220AF45284503F400DAA409 /* SkyApp.swift */,
 				6220AF47284503F400DAA409 /* ContentView.swift */,
+				6220AF67284507A900DAA409 /* View */,
 				6220AF532845046F00DAA409 /* Home.swift */,
-				6220AF552845049200DAA409 /* ButtonView.swift */,
-				6220AF5B284504C600DAA409 /* ButtonV.swift */,
-				6220AF5D284504CF00DAA409 /* NavButton.swift */,
-				6220AF5F284504D200DAA409 /* Panorama.swift */,
-				6220AF61284504D400DAA409 /* Tickets.swift */,
-				6220AF63284504D600DAA409 /* TicketSheet.swift */,
-				6220AF65284504D800DAA409 /* TravelView.swift */,
 				6220AF572845049A00DAA409 /* Test.swift */,
 				6220AF49284503F600DAA409 /* Assets.xcassets */,
 				6220AF4B284503F600DAA409 /* Preview Content */,
@@ -92,6 +86,20 @@
 				6220AF4C284503F600DAA409 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6220AF67284507A900DAA409 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6220AF552845049200DAA409 /* ButtonView.swift */,
+				6220AF5B284504C600DAA409 /* ButtonV.swift */,
+				6220AF5D284504CF00DAA409 /* NavButton.swift */,
+				6220AF5F284504D200DAA409 /* Panorama.swift */,
+				6220AF61284504D400DAA409 /* Tickets.swift */,
+				6220AF63284504D600DAA409 /* TicketSheet.swift */,
+				6220AF65284504D800DAA409 /* TravelView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
